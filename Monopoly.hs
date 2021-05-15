@@ -1,5 +1,3 @@
-
-module Lib where
 import Text.Show.Functions
 
 data Jugador = Jugador {
